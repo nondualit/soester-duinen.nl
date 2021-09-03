@@ -7,7 +7,7 @@ Use it in Kubernetes with nginx
 
 helm repo add bitnami https://charts.bitnami.com/bitnami
 
-helm install  yourapp-nginx --set cloneStaticSiteFromGit.enabled=true --set cloneStaticSiteFromGit.repository=https://github.com/nondualit/soester-duinen.nl.git --set cloneStaticSiteFromGit.branch=master bitnami/nginx
+helm install  yourapp-nginx --set cloneStaticSiteFromGit.enabled=true --set cloneStaticSiteFromGit.repository=https://github.com/nondualit/soester-duinen.nl.git --set cloneStaticSiteFromGit.branch=main bitnami/nginx
 
 More info
 
