@@ -13,6 +13,4 @@ More info
 
 https://github.com/bitnami/charts/tree/master/bitnami/nginx/#installing-the-chart
 
-All pictures made by Anibal Ojeda can be used under the GNU General Public License (GPL) 3.0
-
-Please contact me if you want to have the picture without mark.
+All pictures made by Anibal Ojeda can be used under the CC0-1.0 license
