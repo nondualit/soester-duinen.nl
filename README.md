@@ -1,4 +1,4 @@
-# soester-duinen.nl
+# soester-duinen.nl demo site
 Repository for the website https://soester-duinen.nl including some of my best pictures
 
 You can use this  template for your own and change it and make it yours.
