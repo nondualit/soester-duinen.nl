@@ -19,7 +19,7 @@ helm install  yourapp-nginx --set cloneStaticSiteFromGit.enabled=true --set clon
 # and run as
 <pre>
 helm install --values custom-values.yaml yourapp-nginx bitnami/nginx
-</pre>pre>
+</pre>
 
 More info
 
