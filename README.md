@@ -14,7 +14,7 @@ helm install  yourapp-nginx --set cloneStaticSiteFromGit.enabled=true --set clon
 --set cloneStaticSiteFromGit.enabled=true 
 --set cloneStaticSiteFromGit.repository=https://github.com/nondualit/soester-duinen.nl.git 
 --set cloneStaticSiteFromGit.branch=main
-</pre>pre>
+</pre>
 
 # and run as
 <pre>
