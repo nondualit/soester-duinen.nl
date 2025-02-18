@@ -10,13 +10,16 @@ helm repo add bitnami https://charts.bitnami.com/bitnami
 helm install  yourapp-nginx --set cloneStaticSiteFromGit.enabled=true --set cloneStaticSiteFromGit.repository=https://github.com/nondualit/soester-duinen.nl.git --set cloneStaticSiteFromGit.branch=main bitnami/nginx
 
 or create a custom-values.yaml
-
+<pre>
 --set cloneStaticSiteFromGit.enabled=true 
 --set cloneStaticSiteFromGit.repository=https://github.com/nondualit/soester-duinen.nl.git 
 --set cloneStaticSiteFromGit.branch=main
+</pre>pre>
 
 and run as
+<pre>
 helm install --values custom-values.yaml yourapp-nginx bitnami/nginx
+</pre>pre>
 
 More info
 
